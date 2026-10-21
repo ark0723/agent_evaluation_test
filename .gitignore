@@ -14,3 +14,7 @@ wheels/
 .env
 .DS_Store
 .local/
+
+
+# folder
+docs/
